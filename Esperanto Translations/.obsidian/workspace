@@ -4,25 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "7e2f0cd72667cbce",
+        "id": "dfea5e553331e7ba",
         "type": "leaf",
-        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Preamble/English.md",
+            "file": "Easy - Directions for a visitor/Esperanto.md",
             "mode": "source"
           }
         }
       },
       {
-        "id": "e8c253adc4d6bfe9",
+        "id": "b7b785485e1644bc",
         "type": "leaf",
+        "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Preamble/Esperanto.md",
-            "mode": "source"
+            "file": "Easy - Directions for a visitor/English.md",
+            "mode": "preview"
           }
         }
       }
@@ -83,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Preamble/English.md"
+                "file": "Easy - Directions for a visitor/English.md"
               }
             }
           }
@@ -95,7 +95,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Easy - Directions for a visitor/English.md",
+    "Easy - Directions for a visitor/Esperanto.md",
+    "Easy - Directions for a visitor/Projects list.md",
+    "Easy - Directions for a visitor/Untitled.md",
+    "Directions for a visitor/English.md",
+    "Directions for a visitor/Untitled.md",
+    "Preamble/Esperanto.md",
     "Preamble/English.md",
-    "UN Declaration of Human Rights/Untitled.md"
+    "Declaration of Human Rights/English.md",
+    "Declaration of Human Rights/Untitled.md"
   ]
 }
